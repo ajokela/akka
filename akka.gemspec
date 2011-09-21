@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name    = "akka"
-  s.version     = '0.0.2'
-  s.date        = '2011-09-19'
+  s.version     = '0.0.3'
+  s.date        = '2011-09-21'
   s.summary     = "Akka + Jruby = actors in ruby"
   s.description = "Interface for akka.io concurrency in jruby"
   s.authors     = ["Alex Jokela"]
