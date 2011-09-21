@@ -1,2 +1,3 @@
 logs/
 akka-*
+.DS_Store
