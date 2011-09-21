@@ -1,17 +1,7 @@
 Gem::Specification.new do |s|
   s.name    = "akka"
-<<<<<<< HEAD
   s.version     = '0.0.3'
   s.date        = '2011-09-21'
-=======
-<<<<<<< .merge_file_ThEXil
-  s.version     = '0.0.2'
-  s.date        = '2011-09-19'
-=======
-  s.version     = '0.0.3'
-  s.date        = '2011-09-21'
->>>>>>> .merge_file_qtRmuR
->>>>>>> 3a1023516caaf6ff98f326f9ae16908210ad442b
   s.summary     = "Akka + Jruby = actors in ruby"
   s.description = "Interface for akka.io concurrency in jruby"
   s.authors     = ["Alex Jokela"]
